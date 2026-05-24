@@ -173,7 +173,7 @@ Herramientas de seguimiento y monitoreo.
 # 📂 Estructura del proyecto
 
 ```bash
-COVID19_SL/
+AppMovilEstadisticasCovid/
 │
 ├── lib/
 │   ├── screens/
@@ -210,7 +210,7 @@ COVID19_SL/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/COVID19_SL.git
+git clone https://github.com/isairey/AppMovilEstadisticasCovid.git
 ```
 
 ---
@@ -218,7 +218,7 @@ git clone https://github.com/usuario/COVID19_SL.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd COVID19_SL
+cd AppMovilEstadisticasCovid
 ```
 
 ---
@@ -325,21 +325,14 @@ git push origin feature/nueva-funcionalidad
 
 ---
 
-# 👨‍💻 Autores
+# 👨‍💻 Desarrollador
 
 <div align="center">
 
-## Nandun Bandara
+## Isai Reyes - FullStack Developer
 
 Desarrollador enfocado en aplicaciones móviles y proyectos tecnológicos open source 🚀
 
----
-
-## Yasas Wickramarathne
-
-Colaborador del proyecto y contribuyente de la comunidad ❤️
-
-</div>
 
 ---
 
